@@ -81,8 +81,8 @@ Visit [loveyourheart.streamlit.app](https://loveyourheart.streamlit.app) to use 
 ### Local Setup
 1. **Clone this repository**  
 ```bash
-   git clone https://github.com/yourusername/love-your-heart.git
-   cd love-your-heart
+   git clone https://github.com/theHPhub/LoveYourHeart.git
+   cd LoveYourHeart
 ```
 
 2. **Install dependencies**
