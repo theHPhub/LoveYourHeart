@@ -37,7 +37,7 @@ The model prioritizes **high recall** to minimize false negatives—ensuring hig
 ## 🚀 Key Findings & Results
 - **Final Model:** Voting Classifier ensemble (Logistic Regression + Random Forest + XGBoost + CatBoost)
 - **Performance:** 
-  - Average Recall: [add]
+  - Recall: 0.86 (Voting Classifier, test set, tuned threshold 0.19), precision 0.19
   - Optimized threshold: 0.19 (balances high recall with manageable false positives)
   - Significantly improved minority class detection vs. individual models
 - **Top Risk Factors (via SHAP):**
